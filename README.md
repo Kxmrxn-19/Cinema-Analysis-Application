@@ -28,4 +28,4 @@ This application provides a graphical user interface (GUI) for analyzing cinema 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cinema-analysis-app.git
+   git clone https://github.com/Kxmrxn-19/Cinema-Analysis-Application.git
