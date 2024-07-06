@@ -29,3 +29,22 @@ This application provides a graphical user interface (GUI) for analyzing cinema 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Kxmrxn-19/Cinema-Analysis-Application.git
+   ```
+2. Navigate into the directory:
+  ```bash
+cd cinema-analysis-app
+  ```
+3. Install dependencies:
+  ```bash
+pip install -r requirements.txt
+  ```
+
+## Usage
+1. Run the application:
+   ```bash
+   python main.py
+   ```
+2. Select from the options:
+  - Movie Analysis
+  - Cinema Analysis
+  - Open Google
